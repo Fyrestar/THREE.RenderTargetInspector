@@ -5,7 +5,7 @@ A helper for debugging WebGLRenderTarget. It will add a sidebar overlay that can
 
 Click on the small square above each thumbnail to save the render target as PNG.
 
-Demo: https://mevedia.com/share/RenderTargetInspector
+[Demo: webgl gpgpu water](https://mevedia.com/share/RenderTargetInspector)
 
 ```javascript
 const rti = new THREE.RenderTargetInspector( renderer, 256, 'left' );
