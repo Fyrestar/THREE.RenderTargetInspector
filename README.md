@@ -1,4 +1,4 @@
-![RTI-01](https://user-images.githubusercontent.com/28584767/157964733-578b57c9-82b7-4f5d-b886-b02ac6b70ae1.jpg)
+![RTI-01](https://user-images.githubusercontent.com/28584767/157973341-1f0d715f-56de-4a4d-a6d8-725d6a5b9a0e.png)
 
 # THREE.RenderTargetInspector
 
