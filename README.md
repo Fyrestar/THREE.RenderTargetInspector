@@ -1,7 +1,10 @@
+![RTI-01](https://user-images.githubusercontent.com/28584767/157951181-17916f32-73d5-4106-a27b-7b87357166cf.jpg)
+
 # THREE.RenderTargetInspector
-![RTI](/RTI.png)
 
 A helper for debugging WebGLRenderTarget. It will add a sidebar overlay that can be placed at left, right, top and bottom, showing live-thumbnails of the inspecting render targets or data textures, by clicking on those they will be opened in a popup you can zoom in and move around, inspect pixel values and positions.
+
+![RTI](/RTI.png)
 
 Click on the small square above each thumbnail to save the render target as PNG.
 
